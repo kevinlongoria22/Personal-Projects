@@ -1,14 +1,17 @@
 name: Refresh SignalStack cache
 
-# Runs on weekdays: ~11:30am ET, ~4:00pm ET (market close), ~7:00pm ET (evening).
+# Runs on weekdays: ~11:30am ET, ~4:00pm ET (market close), ~10:00pm ET (evening).
 # Cron times below assume EDT (UTC-4). During EST (UTC-5, roughly
 # Nov-Mar), actual local times shift ~1 hour earlier — adjust if that
 # matters to you.
+#
+# 10pm ET crosses midnight UTC, so its weekday range is shifted forward
+# one day (Tue-Sat UTC = Mon-Fri ET evenings).
 on:
   schedule:
     - cron: "30 15 * * 1-5"  # 11:30am ET
     - cron: "0 20 * * 1-5"   # 4:00pm ET
-    - cron: "0 23 * * 1-5"   # 7:00pm ET
+    - cron: "0 2 * * 2-6"    # 10:00pm ET (previous day)
   workflow_dispatch: {}  # allows manually triggering a refresh from the Actions tab
 
 permissions:
