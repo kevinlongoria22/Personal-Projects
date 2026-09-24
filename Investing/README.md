@@ -2,6 +2,12 @@
 
 A lightweight market-setup dashboard inspired by the AMD example discussed in the shared ChatGPT thread.
 
+## Live site
+
+**https://kevinlongoria22.github.io/Personal-Projects/**
+
+`cache.json` auto-refreshes on weekdays via a scheduled GitHub Action.
+
 ## Run locally
 
 From this folder:
