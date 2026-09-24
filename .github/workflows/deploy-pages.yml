@@ -1,0 +1,39 @@
+name: Deploy SignalStack to GitHub Pages
+
+# Publishes the Investing/ folder as the Pages site root, so the URL is
+# https://kevinlongoria22.github.io/Personal-Projects/ and serves
+# Investing/index.html directly (keeps repo root free for future
+# Personal Projects folders without them showing up on the live site).
+on:
+  push:
+    branches: [main]
+    paths:
+      - "Investing/**"
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: Investing
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
