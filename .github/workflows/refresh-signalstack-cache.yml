@@ -1,0 +1,39 @@
+name: Refresh SignalStack cache
+
+# Runs on weekdays: ~11:30am ET, ~4:00pm ET (market close), ~7:00pm ET (evening).
+# Cron times below assume EDT (UTC-4). During EST (UTC-5, roughly
+# Nov-Mar), actual local times shift ~1 hour earlier — adjust if that
+# matters to you.
+on:
+  schedule:
+    - cron: "30 15 * * 1-5"  # 11:30am ET
+    - cron: "0 20 * * 1-5"   # 4:00pm ET
+    - cron: "0 23 * * 1-5"   # 7:00pm ET
+  workflow_dispatch: {}  # allows manually triggering a refresh from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: Investing
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build fresh cache.json
+        run: python build_cache.py
+
+      - name: Commit updated cache.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add cache.json
+          git diff --staged --quiet || git commit -m "Refresh SignalStack cache [skip ci]"
+          git push
