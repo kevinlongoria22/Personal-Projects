@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1790364149,
+  "generatedAt": 1790377137,
   "groups": {
     "big_tech": [
       "AAPL",
@@ -45,38 +45,38 @@
       "symbol": "AAPL",
       "companyName": "Apple Inc.",
       "group": "big_tech",
-      "price": 339.98,
+      "price": 341.07,
       "currency": "USD",
-      "dailyMove": 1.21,
-      "weeklyMove": 1.14,
-      "monthlyMove": 8.46,
-      "sixMonthMove": 36.65,
-      "ytdMove": 25.45,
-      "trendStrength": 2.34,
-      "volatility": 1.36,
+      "dailyMove": 1.53,
+      "weeklyMove": 1.47,
+      "monthlyMove": 8.81,
+      "sixMonthMove": 37.09,
+      "ytdMove": 25.85,
+      "trendStrength": 2.35,
+      "volatility": 1.37,
       "volPenalty": 4.1,
-      "distanceFromHigh": -0.03,
-      "distanceFromLow": 20.67,
+      "distanceFromHigh": 0.0,
+      "distanceFromLow": 21.06,
       "cusum": {
         "status": "no_change",
-        "upperStat": 3.556,
-        "lowerStat": -2.331,
-        "threshold": 6.204,
-        "baselineMean": 0.1,
-        "baselineStdev": 1.551
+        "upperStat": 3.548,
+        "lowerStat": -2.334,
+        "threshold": 6.215,
+        "baselineMean": 0.103,
+        "baselineStdev": 1.554
       },
       "expectedRange": {
         "horizonTradingDays": 21,
         "low": -3.6,
-        "high": 8.8,
-        "projectedMean": 2.6
+        "high": 9.0,
+        "projectedMean": 2.7
       },
       "regimeProbabilities": {
-        "bull": 0.2116,
-        "neutral": 0.7294,
-        "bear": 0.059
+        "bull": 0.2395,
+        "neutral": 0.7094,
+        "bear": 0.0511
       },
-      "score": 45,
+      "score": 47,
       "action": "AVOID",
       "risk": "Low",
       "confidence": "Medium",
@@ -87,44 +87,44 @@
         5.41,
         1.39
       ],
-      "updatedAt": 1790364147
+      "updatedAt": 1790377136
     },
     "MSFT": {
       "symbol": "MSFT",
       "companyName": "Microsoft Corporation",
       "group": "big_tech",
-      "price": 516.21,
+      "price": 516.17,
       "currency": "USD",
-      "dailyMove": 3.67,
-      "weeklyMove": 4.54,
-      "monthlyMove": 4.0,
-      "sixMonthMove": 44.69,
-      "ytdMove": 9.15,
+      "dailyMove": 3.66,
+      "weeklyMove": 4.53,
+      "monthlyMove": 3.99,
+      "sixMonthMove": 44.68,
+      "ytdMove": 9.14,
       "trendStrength": 5.09,
       "volatility": 1.55,
       "volPenalty": 4.6,
       "distanceFromHigh": 0.0,
-      "distanceFromLow": 40.06,
+      "distanceFromLow": 40.05,
       "cusum": {
         "status": "no_change",
-        "upperStat": 2.602,
-        "lowerStat": -1.135,
-        "threshold": 8.392,
-        "baselineMean": 0.02,
-        "baselineStdev": 2.098
+        "upperStat": 2.596,
+        "lowerStat": -1.124,
+        "threshold": 8.407,
+        "baselineMean": 0.016,
+        "baselineStdev": 2.102
       },
       "expectedRange": {
         "horizonTradingDays": 21,
-        "low": -6.5,
-        "high": 7.7,
-        "projectedMean": 0.6
+        "low": -6.6,
+        "high": 7.6,
+        "projectedMean": 0.5
       },
       "regimeProbabilities": {
-        "bull": 0.3493,
-        "neutral": 0.6441,
-        "bear": 0.0066
+        "bull": 0.3514,
+        "neutral": 0.6422,
+        "bear": 0.0064
       },
-      "score": 55,
+      "score": 56,
       "action": "AVOID",
       "risk": "Low",
       "confidence": "Medium",
@@ -135,31 +135,31 @@
         -0.27,
         2.1
       ],
-      "updatedAt": 1790364148
+      "updatedAt": 1790377136
     },
     "GOOGL": {
       "symbol": "GOOGL",
       "companyName": "Alphabet Inc.",
       "group": "big_tech",
-      "price": 343.98,
+      "price": 343.92,
       "currency": "USD",
-      "dailyMove": 0.47,
-      "weeklyMove": -1.59,
-      "monthlyMove": 0.58,
-      "sixMonthMove": 25.38,
-      "ytdMove": 9.15,
+      "dailyMove": 0.46,
+      "weeklyMove": -1.61,
+      "monthlyMove": 0.56,
+      "sixMonthMove": 25.36,
+      "ytdMove": 9.13,
       "trendStrength": -0.61,
       "volatility": 1.68,
       "volPenalty": 5.0,
-      "distanceFromHigh": -8.92,
-      "distanceFromLow": 8.27,
+      "distanceFromHigh": -8.93,
+      "distanceFromLow": 8.26,
       "cusum": {
         "status": "no_change",
-        "upperStat": 2.65,
-        "lowerStat": -3.174,
-        "threshold": 8.073,
-        "baselineMean": 0.162,
-        "baselineStdev": 2.018
+        "upperStat": 2.647,
+        "lowerStat": -3.169,
+        "threshold": 8.09,
+        "baselineMean": 0.161,
+        "baselineStdev": 2.022
       },
       "expectedRange": {
         "horizonTradingDays": 21,
@@ -168,9 +168,9 @@
         "projectedMean": 3.2
       },
       "regimeProbabilities": {
-        "bull": 0.0806,
-        "neutral": 0.8501,
-        "bear": 0.0693
+        "bull": 0.0797,
+        "neutral": 0.8514,
+        "bear": 0.0689
       },
       "score": 31,
       "action": "AVOID",
@@ -183,17 +183,17 @@
         3.7,
         -1.47
       ],
-      "updatedAt": 1790364148
+      "updatedAt": 1790377136
     },
     "AMZN": {
       "symbol": "AMZN",
       "companyName": "Amazon.com, Inc.",
       "group": "big_tech",
-      "price": 249.68,
+      "price": 249.67,
       "currency": "USD",
       "dailyMove": 0.12,
       "weeklyMove": -1.59,
-      "monthlyMove": -4.07,
+      "monthlyMove": -4.08,
       "sixMonthMove": 25.25,
       "ytdMove": 10.23,
       "trendStrength": -0.73,
@@ -203,22 +203,22 @@
       "distanceFromLow": 10.16,
       "cusum": {
         "status": "no_change",
-        "upperStat": 2.776,
-        "lowerStat": -2.356,
-        "threshold": 8.791,
-        "baselineMean": 0.093,
-        "baselineStdev": 2.198
+        "upperStat": 2.777,
+        "lowerStat": -2.346,
+        "threshold": 8.808,
+        "baselineMean": 0.091,
+        "baselineStdev": 2.202
       },
       "expectedRange": {
         "horizonTradingDays": 21,
         "low": -6.2,
-        "high": 9.4,
+        "high": 9.3,
         "projectedMean": 1.6
       },
       "regimeProbabilities": {
         "bull": 0.0117,
-        "neutral": 0.6899,
-        "bear": 0.2984
+        "neutral": 0.6927,
+        "bear": 0.2957
       },
       "score": 27,
       "action": "AVOID",
@@ -231,42 +231,42 @@
         -2.55,
         1.35
       ],
-      "updatedAt": 1790364148
+      "updatedAt": 1790377136
     },
     "META": {
       "symbol": "META",
       "companyName": "Meta Platforms, Inc.",
       "group": "big_tech",
-      "price": 751.0,
+      "price": 751.66,
       "currency": "USD",
-      "dailyMove": -3.42,
-      "weeklyMove": 12.81,
-      "monthlyMove": 30.35,
-      "sixMonthMove": 42.85,
-      "ytdMove": 15.47,
-      "trendStrength": 7.32,
-      "volatility": 3.18,
+      "dailyMove": -3.33,
+      "weeklyMove": 12.9,
+      "monthlyMove": 30.46,
+      "sixMonthMove": 42.98,
+      "ytdMove": 15.57,
+      "trendStrength": 7.33,
+      "volatility": 3.17,
       "volPenalty": 9.5,
-      "distanceFromHigh": -3.42,
-      "distanceFromLow": 39.32,
+      "distanceFromHigh": -3.33,
+      "distanceFromLow": 39.45,
       "cusum": {
         "status": "upside_shift",
-        "upperStat": 11.878,
-        "lowerStat": -2.075,
-        "threshold": 10.07,
-        "baselineMean": -0.085,
-        "baselineStdev": 2.517
+        "upperStat": 11.795,
+        "lowerStat": -1.991,
+        "threshold": 10.09,
+        "baselineMean": -0.083,
+        "baselineStdev": 2.523
       },
       "expectedRange": {
         "horizonTradingDays": 21,
-        "low": -13.8,
-        "high": 15.3,
-        "projectedMean": 0.7
+        "low": -13.7,
+        "high": 15.4,
+        "projectedMean": 0.8
       },
       "regimeProbabilities": {
-        "bull": 0.8032,
-        "neutral": 0.1894,
-        "bear": 0.0074
+        "bull": 0.8056,
+        "neutral": 0.1872,
+        "bear": 0.0072
       },
       "score": 81,
       "action": "BUY",
@@ -279,44 +279,44 @@
         3.0,
         10.51
       ],
-      "updatedAt": 1790364148
+      "updatedAt": 1790377136
     },
     "NVDA": {
       "symbol": "NVDA",
       "companyName": "NVIDIA Corporation",
       "group": "semiconductors",
-      "price": 223.8,
+      "price": 225.07,
       "currency": "USD",
-      "dailyMove": -0.35,
-      "weeklyMove": 0.69,
-      "monthlyMove": 6.75,
-      "sixMonthMove": 33.6,
-      "ytdMove": 18.51,
-      "trendStrength": 2.66,
+      "dailyMove": 0.22,
+      "weeklyMove": 1.26,
+      "monthlyMove": 7.35,
+      "sixMonthMove": 34.35,
+      "ytdMove": 19.18,
+      "trendStrength": 2.68,
       "volatility": 1.98,
       "volPenalty": 6.0,
-      "distanceFromHigh": -2.85,
-      "distanceFromLow": 17.79,
+      "distanceFromHigh": -2.3,
+      "distanceFromLow": 18.45,
       "cusum": {
         "status": "no_change",
-        "upperStat": 2.326,
-        "lowerStat": -3.509,
-        "threshold": 9.624,
-        "baselineMean": 0.137,
-        "baselineStdev": 2.406
+        "upperStat": 2.322,
+        "lowerStat": -3.506,
+        "threshold": 9.645,
+        "baselineMean": 0.136,
+        "baselineStdev": 2.411
       },
       "expectedRange": {
         "horizonTradingDays": 21,
-        "low": -6.6,
+        "low": -6.5,
         "high": 11.6,
-        "projectedMean": 2.5
+        "projectedMean": 2.6
       },
       "regimeProbabilities": {
-        "bull": 0.2376,
-        "neutral": 0.6202,
-        "bear": 0.1422
+        "bull": 0.2625,
+        "neutral": 0.6131,
+        "bear": 0.1244
       },
-      "score": 44,
+      "score": 45,
       "action": "AVOID",
       "risk": "Moderate",
       "confidence": "Medium",
@@ -327,41 +327,41 @@
         -4.37,
         5.43
       ],
-      "updatedAt": 1790364148
+      "updatedAt": 1790377136
     },
     "AMD": {
       "symbol": "AMD",
       "companyName": "Advanced Micro Devices, Inc.",
       "group": "semiconductors",
-      "price": 630.47,
+      "price": 630.63,
       "currency": "USD",
-      "dailyMove": 0.19,
-      "weeklyMove": 12.62,
-      "monthlyMove": 31.09,
-      "sixMonthMove": 212.13,
-      "ytdMove": 182.13,
+      "dailyMove": 0.22,
+      "weeklyMove": 12.65,
+      "monthlyMove": 31.13,
+      "sixMonthMove": 212.21,
+      "ytdMove": 182.2,
       "trendStrength": 4.63,
       "volatility": 3.44,
       "volPenalty": 10.3,
       "distanceFromHigh": 0.0,
-      "distanceFromLow": 46.77,
+      "distanceFromLow": 46.81,
       "cusum": {
         "status": "no_change",
-        "upperStat": 10.291,
-        "lowerStat": -2.648,
-        "threshold": 18.643,
-        "baselineMean": 0.576,
-        "baselineStdev": 4.661
+        "upperStat": 10.255,
+        "lowerStat": -2.651,
+        "threshold": 18.678,
+        "baselineMean": 0.584,
+        "baselineStdev": 4.67
       },
       "expectedRange": {
         "horizonTradingDays": 21,
-        "low": -2.2,
-        "high": 29.3,
-        "projectedMean": 13.6
+        "low": -2.0,
+        "high": 29.5,
+        "projectedMean": 13.7
       },
       "regimeProbabilities": {
-        "bull": 0.6584,
-        "neutral": 0.3396,
+        "bull": 0.6553,
+        "neutral": 0.3426,
         "bear": 0.0021
       },
       "score": 66,
@@ -375,42 +375,42 @@
         -1.65,
         19.92
       ],
-      "updatedAt": 1790364148
+      "updatedAt": 1790377136
     },
     "AVGO": {
       "symbol": "AVGO",
       "companyName": "Broadcom Inc.",
       "group": "semiconductors",
-      "price": 352.35,
+      "price": 352.81,
       "currency": "USD",
-      "dailyMove": 0.57,
-      "weeklyMove": -1.47,
-      "monthlyMove": -0.91,
-      "sixMonthMove": 17.18,
-      "ytdMove": 1.36,
+      "dailyMove": 0.7,
+      "weeklyMove": -1.34,
+      "monthlyMove": -0.78,
+      "sixMonthMove": 17.34,
+      "ytdMove": 1.49,
       "trendStrength": -4.94,
       "volatility": 1.86,
       "volPenalty": 5.6,
-      "distanceFromHigh": -17.63,
-      "distanceFromLow": 3.86,
+      "distanceFromHigh": -17.52,
+      "distanceFromLow": 3.99,
       "cusum": {
         "status": "no_change",
-        "upperStat": 2.088,
-        "lowerStat": -3.531,
-        "threshold": 11.991,
-        "baselineMean": 0.089,
-        "baselineStdev": 2.998
+        "upperStat": 2.077,
+        "lowerStat": -3.53,
+        "threshold": 12.017,
+        "baselineMean": 0.091,
+        "baselineStdev": 3.004
       },
       "expectedRange": {
         "horizonTradingDays": 21,
         "low": -7.2,
-        "high": 9.8,
-        "projectedMean": 1.3
+        "high": 9.9,
+        "projectedMean": 1.4
       },
       "regimeProbabilities": {
-        "bull": 0.0336,
-        "neutral": 0.7407,
-        "bear": 0.2257
+        "bull": 0.0348,
+        "neutral": 0.746,
+        "bear": 0.2192
       },
       "score": 20,
       "action": "AVOID",
@@ -423,47 +423,47 @@
         -6.83,
         4.56
       ],
-      "updatedAt": 1790364148
+      "updatedAt": 1790377136
     },
     "ARM": {
       "symbol": "ARM",
       "companyName": "Arm Holdings plc",
       "group": "semiconductors",
-      "price": 312.45,
+      "price": 310.32,
       "currency": "USD",
-      "dailyMove": 1.99,
-      "weeklyMove": 13.37,
-      "monthlyMove": 24.45,
-      "sixMonthMove": 116.78,
-      "ytdMove": 172.34,
-      "trendStrength": 1.43,
+      "dailyMove": 1.3,
+      "weeklyMove": 12.59,
+      "monthlyMove": 23.6,
+      "sixMonthMove": 115.31,
+      "ytdMove": 170.48,
+      "trendStrength": 1.41,
       "volatility": 5.71,
       "volPenalty": 17.1,
-      "distanceFromHigh": -11.88,
-      "distanceFromLow": 38.93,
+      "distanceFromHigh": -12.48,
+      "distanceFromLow": 37.99,
       "cusum": {
         "status": "upside_shift",
-        "upperStat": 21.654,
+        "upperStat": 21.614,
         "lowerStat": -7.659,
-        "threshold": 19.621,
-        "baselineMean": 0.375,
-        "baselineStdev": 4.905
+        "threshold": 19.661,
+        "baselineMean": 0.38,
+        "baselineStdev": 4.915
       },
       "expectedRange": {
         "horizonTradingDays": 21,
-        "low": -17.0,
+        "low": -16.9,
         "high": 35.4,
-        "projectedMean": 9.2
+        "projectedMean": 9.3
       },
       "regimeProbabilities": {
-        "bull": 0.5607,
-        "neutral": 0.4112,
-        "bear": 0.0281
+        "bull": 0.5415,
+        "neutral": 0.4275,
+        "bear": 0.031
       },
-      "score": 53,
+      "score": 52,
       "action": "AVOID",
       "risk": "High",
-      "confidence": "High",
+      "confidence": "Medium",
       "trailingBlocks": [
         -4.64,
         -2.79,
@@ -471,44 +471,44 @@
         -7.66,
         36.31
       ],
-      "updatedAt": 1790364148
+      "updatedAt": 1790377136
     },
     "DELL": {
       "symbol": "DELL",
       "companyName": "Dell Technologies Inc.",
       "group": "pc_makers",
-      "price": 566.0,
+      "price": 562.89,
       "currency": "USD",
-      "dailyMove": 5.59,
-      "weeklyMove": -0.36,
-      "monthlyMove": 22.03,
-      "sixMonthMove": 229.43,
-      "ytdMove": 342.88,
-      "trendStrength": 11.25,
-      "volatility": 5.61,
+      "dailyMove": 5.01,
+      "weeklyMove": -0.91,
+      "monthlyMove": 21.36,
+      "sixMonthMove": 227.62,
+      "ytdMove": 340.45,
+      "trendStrength": 11.24,
+      "volatility": 5.59,
       "volPenalty": 16.8,
-      "distanceFromHigh": -3.81,
-      "distanceFromLow": 53.12,
+      "distanceFromHigh": -4.34,
+      "distanceFromLow": 52.28,
       "cusum": {
         "status": "no_change",
-        "upperStat": 14.734,
-        "lowerStat": -5.213,
-        "threshold": 18.692,
-        "baselineMean": 0.66,
-        "baselineStdev": 4.673
+        "upperStat": 14.717,
+        "lowerStat": -5.209,
+        "threshold": 18.732,
+        "baselineMean": 0.663,
+        "baselineStdev": 4.683
       },
       "expectedRange": {
         "horizonTradingDays": 21,
-        "low": -11.2,
+        "low": -11.1,
         "high": 40.2,
         "projectedMean": 14.5
       },
       "regimeProbabilities": {
-        "bull": 0.1031,
-        "neutral": 0.5651,
-        "bear": 0.3319
+        "bull": 0.0944,
+        "neutral": 0.5596,
+        "bear": 0.3459
       },
-      "score": 33,
+      "score": 32,
       "action": "AVOID",
       "risk": "High",
       "confidence": "Medium",
@@ -519,44 +519,44 @@
         5.24,
         -2.39
       ],
-      "updatedAt": 1790364148
+      "updatedAt": 1790377136
     },
     "HPQ": {
       "symbol": "HPQ",
       "companyName": "HP Inc.",
       "group": "pc_makers",
-      "price": 31.36,
+      "price": 31.3,
       "currency": "USD",
-      "dailyMove": 0.72,
-      "weeklyMove": -8.82,
-      "monthlyMove": 2.77,
-      "sixMonthMove": 61.34,
-      "ytdMove": 41.79,
-      "trendStrength": 8.6,
-      "volatility": 3.51,
+      "dailyMove": 0.51,
+      "weeklyMove": -9.01,
+      "monthlyMove": 2.56,
+      "sixMonthMove": 61.01,
+      "ytdMove": 41.5,
+      "trendStrength": 8.59,
+      "volatility": 3.5,
       "volPenalty": 10.5,
-      "distanceFromHigh": -11.6,
-      "distanceFromLow": 43.02,
+      "distanceFromHigh": -11.78,
+      "distanceFromLow": 42.73,
       "cusum": {
         "status": "no_change",
-        "upperStat": 8.896,
-        "lowerStat": -4.467,
-        "threshold": 11.267,
-        "baselineMean": 0.082,
-        "baselineStdev": 2.817
+        "upperStat": 8.879,
+        "lowerStat": -4.466,
+        "threshold": 11.29,
+        "baselineMean": 0.084,
+        "baselineStdev": 2.822
       },
       "expectedRange": {
         "horizonTradingDays": 21,
         "low": -13.9,
-        "high": 18.2,
+        "high": 18.3,
         "projectedMean": 2.2
       },
       "regimeProbabilities": {
-        "bull": 0.0235,
-        "neutral": 0.3156,
-        "bear": 0.6609
+        "bull": 0.0222,
+        "neutral": 0.3095,
+        "bear": 0.6683
       },
-      "score": 29,
+      "score": 28,
       "action": "AVOID",
       "risk": "High",
       "confidence": "Medium",
@@ -567,44 +567,44 @@
         0.96,
         -1.65
       ],
-      "updatedAt": 1790364148
+      "updatedAt": 1790377136
     },
     "LNVGY": {
       "symbol": "LNVGY",
       "companyName": "Lenovo Group Limited",
       "group": "pc_makers",
-      "price": 94.77,
+      "price": 95.23,
       "currency": "USD",
-      "dailyMove": 3.01,
-      "weeklyMove": -1.1,
-      "monthlyMove": 20.99,
-      "sixMonthMove": 299.7,
-      "ytdMove": 285.24,
-      "trendStrength": 12.06,
-      "volatility": 3.68,
-      "volPenalty": 11.0,
-      "distanceFromHigh": -1.1,
-      "distanceFromLow": 77.8,
+      "dailyMove": 3.51,
+      "weeklyMove": -0.62,
+      "monthlyMove": 21.58,
+      "sixMonthMove": 301.64,
+      "ytdMove": 287.11,
+      "trendStrength": 12.08,
+      "volatility": 3.69,
+      "volPenalty": 11.1,
+      "distanceFromHigh": -0.62,
+      "distanceFromLow": 78.67,
       "cusum": {
         "status": "no_change",
-        "upperStat": 11.103,
-        "lowerStat": -5.829,
-        "threshold": 15.396,
-        "baselineMean": 0.491,
-        "baselineStdev": 3.849
+        "upperStat": 11.087,
+        "lowerStat": -5.826,
+        "threshold": 15.429,
+        "baselineMean": 0.492,
+        "baselineStdev": 3.857
       },
       "expectedRange": {
         "horizonTradingDays": 21,
         "low": -5.7,
-        "high": 28.1,
-        "projectedMean": 11.2
+        "high": 28.2,
+        "projectedMean": 11.3
       },
       "regimeProbabilities": {
-        "bull": 0.4661,
-        "neutral": 0.5052,
-        "bear": 0.0287
+        "bull": 0.4849,
+        "neutral": 0.489,
+        "bear": 0.0261
       },
-      "score": 54,
+      "score": 55,
       "action": "AVOID",
       "risk": "High",
       "confidence": "Medium",
@@ -615,44 +615,44 @@
         5.26,
         9.12
       ],
-      "updatedAt": 1790364148
+      "updatedAt": 1790377136
     },
     "MU": {
       "symbol": "MU",
       "companyName": "Micron Technology, Inc.",
       "group": "memory_storage",
-      "price": 1083.74,
+      "price": 1082.28,
       "currency": "USD",
-      "dailyMove": 0.3,
-      "weeklyMove": 6.69,
-      "monthlyMove": 15.49,
-      "sixMonthMove": 203.38,
-      "ytdMove": 243.59,
+      "dailyMove": 0.16,
+      "weeklyMove": 6.54,
+      "monthlyMove": 15.33,
+      "sixMonthMove": 202.97,
+      "ytdMove": 243.12,
       "trendStrength": 5.58,
       "volatility": 3.09,
       "volPenalty": 9.3,
-      "distanceFromHigh": -6.11,
-      "distanceFromLow": 46.65,
+      "distanceFromHigh": -6.24,
+      "distanceFromLow": 46.45,
       "cusum": {
         "status": "no_change",
-        "upperStat": 3.01,
-        "lowerStat": -5.214,
-        "threshold": 21.058,
-        "baselineMean": 0.913,
-        "baselineStdev": 5.264
+        "upperStat": 2.977,
+        "lowerStat": -5.205,
+        "threshold": 21.103,
+        "baselineMean": 0.915,
+        "baselineStdev": 5.276
       },
       "expectedRange": {
         "horizonTradingDays": 21,
         "low": 4.8,
-        "high": 33.1,
+        "high": 33.2,
         "projectedMean": 19.0
       },
       "regimeProbabilities": {
-        "bull": 0.0604,
-        "neutral": 0.9164,
-        "bear": 0.0232
+        "bull": 0.0576,
+        "neutral": 0.9186,
+        "bear": 0.0238
       },
-      "score": 39,
+      "score": 38,
       "action": "AVOID",
       "risk": "Moderate",
       "confidence": "Medium",
@@ -663,42 +663,42 @@
         -9.85,
         15.69
       ],
-      "updatedAt": 1790364149
+      "updatedAt": 1790377136
     },
     "WDC": {
       "symbol": "WDC",
       "companyName": "Western Digital Corporation",
       "group": "memory_storage",
-      "price": 455.39,
+      "price": 456.81,
       "currency": "USD",
-      "dailyMove": 1.13,
-      "weeklyMove": 3.18,
-      "monthlyMove": -2.88,
-      "sixMonthMove": 65.39,
-      "ytdMove": 142.62,
-      "trendStrength": -5.05,
-      "volatility": 2.95,
+      "dailyMove": 1.44,
+      "weeklyMove": 3.5,
+      "monthlyMove": -2.57,
+      "sixMonthMove": 65.91,
+      "ytdMove": 143.37,
+      "trendStrength": -5.04,
+      "volatility": 2.96,
       "volPenalty": 8.9,
-      "distanceFromHigh": -30.14,
-      "distanceFromLow": 10.54,
+      "distanceFromHigh": -29.92,
+      "distanceFromLow": 10.89,
       "cusum": {
         "status": "no_change",
-        "upperStat": 2.494,
-        "lowerStat": -8.119,
-        "threshold": 20.801,
-        "baselineMean": 0.769,
-        "baselineStdev": 5.2
+        "upperStat": 2.484,
+        "lowerStat": -8.116,
+        "threshold": 20.845,
+        "baselineMean": 0.773,
+        "baselineStdev": 5.211
       },
       "expectedRange": {
         "horizonTradingDays": 21,
         "low": 1.3,
-        "high": 28.3,
-        "projectedMean": 14.8
+        "high": 28.5,
+        "projectedMean": 14.9
       },
       "regimeProbabilities": {
-        "bull": 0.0202,
-        "neutral": 0.8054,
-        "bear": 0.1744
+        "bull": 0.0215,
+        "neutral": 0.8128,
+        "bear": 0.1657
       },
       "score": 14,
       "action": "AVOID",
@@ -711,42 +711,42 @@
         -13.54,
         13.6
       ],
-      "updatedAt": 1790364149
+      "updatedAt": 1790377137
     },
     "STX": {
       "symbol": "STX",
       "companyName": "Seagate Technology Holdings plc",
       "group": "memory_storage",
-      "price": 914.23,
+      "price": 916.83,
       "currency": "USD",
-      "dailyMove": 0.92,
-      "weeklyMove": 6.46,
-      "monthlyMove": 8.02,
-      "sixMonthMove": 140.54,
-      "ytdMove": 217.95,
-      "trendStrength": -0.1,
+      "dailyMove": 1.2,
+      "weeklyMove": 6.76,
+      "monthlyMove": 8.32,
+      "sixMonthMove": 141.23,
+      "ytdMove": 218.85,
+      "trendStrength": -0.09,
       "volatility": 3.38,
       "volPenalty": 10.1,
-      "distanceFromHigh": -8.1,
-      "distanceFromLow": 22.63,
+      "distanceFromHigh": -7.84,
+      "distanceFromLow": 22.98,
       "cusum": {
         "status": "no_change",
-        "upperStat": 6.607,
-        "lowerStat": -7.029,
-        "threshold": 19.298,
-        "baselineMean": 0.701,
-        "baselineStdev": 4.824
+        "upperStat": 6.583,
+        "lowerStat": -7.045,
+        "threshold": 19.334,
+        "baselineMean": 0.708,
+        "baselineStdev": 4.833
       },
       "expectedRange": {
         "horizonTradingDays": 21,
-        "low": -1.2,
-        "high": 29.8,
-        "projectedMean": 14.3
+        "low": -1.1,
+        "high": 29.9,
+        "projectedMean": 14.4
       },
       "regimeProbabilities": {
-        "bull": 0.1938,
-        "neutral": 0.7321,
-        "bear": 0.0741
+        "bull": 0.1988,
+        "neutral": 0.73,
+        "bear": 0.0712
       },
       "score": 36,
       "action": "AVOID",
@@ -759,44 +759,44 @@
         -11.6,
         17.96
       ],
-      "updatedAt": 1790364149
+      "updatedAt": 1790377137
     },
     "TSLA": {
       "symbol": "TSLA",
       "companyName": "Tesla, Inc.",
       "group": "volatile",
-      "price": 372.04,
+      "price": 372.11,
       "currency": "USD",
-      "dailyMove": -1.56,
-      "weeklyMove": 2.13,
-      "monthlyMove": 7.58,
-      "sixMonthMove": 2.82,
-      "ytdMove": -15.07,
+      "dailyMove": -1.54,
+      "weeklyMove": 2.15,
+      "monthlyMove": 7.6,
+      "sixMonthMove": 2.84,
+      "ytdMove": -15.06,
       "trendStrength": 5.01,
       "volatility": 2.7,
       "volPenalty": 8.1,
-      "distanceFromHigh": -12.52,
-      "distanceFromLow": 24.71,
+      "distanceFromHigh": -12.51,
+      "distanceFromLow": 24.74,
       "cusum": {
         "status": "no_change",
-        "upperStat": 4.085,
-        "lowerStat": -4.434,
-        "threshold": 11.636,
-        "baselineMean": -0.034,
-        "baselineStdev": 2.909
+        "upperStat": 4.105,
+        "lowerStat": -4.42,
+        "threshold": 11.612,
+        "baselineMean": -0.051,
+        "baselineStdev": 2.903
       },
       "expectedRange": {
         "horizonTradingDays": 21,
-        "low": -12.6,
-        "high": 12.2,
-        "projectedMean": -0.2
+        "low": -12.9,
+        "high": 11.9,
+        "projectedMean": -0.5
       },
       "regimeProbabilities": {
-        "bull": 0.2402,
-        "neutral": 0.6625,
-        "bear": 0.0973
+        "bull": 0.2488,
+        "neutral": 0.6576,
+        "bear": 0.0936
       },
-      "score": 41,
+      "score": 42,
       "action": "AVOID",
       "risk": "Moderate",
       "confidence": "Medium",
@@ -807,42 +807,42 @@
         -2.65,
         6.16
       ],
-      "updatedAt": 1790364149
+      "updatedAt": 1790377137
     },
     "NFLX": {
       "symbol": "NFLX",
       "companyName": "Netflix, Inc.",
       "group": "volatile",
-      "price": 71.35,
+      "price": 71.14,
       "currency": "USD",
-      "dailyMove": -0.52,
-      "weeklyMove": -0.62,
-      "monthlyMove": -12.42,
-      "sixMonthMove": -23.64,
-      "ytdMove": -21.59,
-      "trendStrength": 1.61,
+      "dailyMove": -0.8,
+      "weeklyMove": -0.9,
+      "monthlyMove": -12.66,
+      "sixMonthMove": -23.85,
+      "ytdMove": -21.81,
+      "trendStrength": 1.6,
       "volatility": 2.27,
       "volPenalty": 6.8,
-      "distanceFromHigh": -13.76,
-      "distanceFromLow": 5.54,
+      "distanceFromHigh": -14.0,
+      "distanceFromLow": 5.24,
       "cusum": {
         "status": "no_change",
-        "upperStat": 3.621,
-        "lowerStat": -5.855,
-        "threshold": 9.144,
-        "baselineMean": -0.153,
-        "baselineStdev": 2.286
+        "upperStat": 3.62,
+        "lowerStat": -5.839,
+        "threshold": 9.163,
+        "baselineMean": -0.155,
+        "baselineStdev": 2.291
       },
       "expectedRange": {
         "horizonTradingDays": 21,
-        "low": -14.2,
+        "low": -14.3,
         "high": 6.5,
         "projectedMean": -3.9
       },
       "regimeProbabilities": {
-        "bull": 0.0248,
-        "neutral": 0.4525,
-        "bear": 0.5227
+        "bull": 0.0225,
+        "neutral": 0.4391,
+        "bear": 0.5384
       },
       "score": 28,
       "action": "AVOID",
@@ -855,44 +855,44 @@
         0.5,
         -6.61
       ],
-      "updatedAt": 1790364149
+      "updatedAt": 1790377137
     },
     "PLTR": {
       "symbol": "PLTR",
       "companyName": "Palantir Technologies Inc.",
       "group": "volatile",
-      "price": 191.3,
+      "price": 189.67,
       "currency": "USD",
-      "dailyMove": -0.67,
-      "weeklyMove": 7.69,
-      "monthlyMove": 7.77,
-      "sixMonthMove": 33.72,
-      "ytdMove": 13.96,
-      "trendStrength": 8.86,
-      "volatility": 2.97,
-      "volPenalty": 8.9,
-      "distanceFromHigh": -0.67,
-      "distanceFromLow": 65.34,
+      "dailyMove": -1.52,
+      "weeklyMove": 6.77,
+      "monthlyMove": 6.86,
+      "sixMonthMove": 32.58,
+      "ytdMove": 12.99,
+      "trendStrength": 8.83,
+      "volatility": 2.99,
+      "volPenalty": 9.0,
+      "distanceFromHigh": -1.52,
+      "distanceFromLow": 63.93,
       "cusum": {
         "status": "no_change",
-        "upperStat": 5.685,
+        "upperStat": 5.676,
         "lowerStat": -5.578,
-        "threshold": 15.516,
-        "baselineMean": 0.089,
-        "baselineStdev": 3.879
+        "threshold": 15.548,
+        "baselineMean": 0.093,
+        "baselineStdev": 3.887
       },
       "expectedRange": {
         "horizonTradingDays": 21,
-        "low": -11.6,
-        "high": 15.6,
+        "low": -11.7,
+        "high": 15.7,
         "projectedMean": 2.0
       },
       "regimeProbabilities": {
-        "bull": 0.6769,
-        "neutral": 0.3217,
-        "bear": 0.0014
+        "bull": 0.6258,
+        "neutral": 0.3722,
+        "bear": 0.002
       },
-      "score": 70,
+      "score": 67,
       "action": "WAIT",
       "risk": "Moderate",
       "confidence": "Medium",
@@ -903,44 +903,44 @@
         2.84,
         10.01
       ],
-      "updatedAt": 1790364149
+      "updatedAt": 1790377137
     },
     "MSTR": {
       "symbol": "MSTR",
       "companyName": "MicroStrategy Incorporated",
       "group": "volatile",
-      "price": 160.06,
+      "price": 158.61,
       "currency": "USD",
-      "dailyMove": -0.96,
-      "weeklyMove": 3.99,
-      "monthlyMove": 29.93,
-      "sixMonthMove": 27.0,
-      "ytdMove": 1.85,
-      "trendStrength": 19.94,
-      "volatility": 6.68,
-      "volPenalty": 20.0,
-      "distanceFromHigh": -5.01,
-      "distanceFromLow": 84.13,
+      "dailyMove": -1.86,
+      "weeklyMove": 3.05,
+      "monthlyMove": 28.75,
+      "sixMonthMove": 25.85,
+      "ytdMove": 0.92,
+      "trendStrength": 19.91,
+      "volatility": 6.7,
+      "volPenalty": 20.1,
+      "distanceFromHigh": -5.87,
+      "distanceFromLow": 82.46,
       "cusum": {
         "status": "upside_shift",
-        "upperStat": 23.831,
-        "lowerStat": -4.633,
-        "threshold": 19.961,
-        "baselineMean": -0.216,
-        "baselineStdev": 4.99
+        "upperStat": 23.859,
+        "lowerStat": -4.616,
+        "threshold": 19.988,
+        "baselineMean": -0.229,
+        "baselineStdev": 4.997
       },
       "expectedRange": {
         "horizonTradingDays": 21,
-        "low": -33.1,
-        "high": 28.1,
-        "projectedMean": -2.5
+        "low": -33.5,
+        "high": 27.8,
+        "projectedMean": -2.9
       },
       "regimeProbabilities": {
-        "bull": 0.639,
-        "neutral": 0.3225,
-        "bear": 0.0385
+        "bull": 0.6267,
+        "neutral": 0.3317,
+        "bear": 0.0416
       },
-      "score": 59,
+      "score": 58,
       "action": "WAIT",
       "risk": "High",
       "confidence": "High",
@@ -951,44 +951,44 @@
         -4.91,
         28.55
       ],
-      "updatedAt": 1790364149
+      "updatedAt": 1790377137
     },
     "COIN": {
       "symbol": "COIN",
       "companyName": "Coinbase Global, Inc.",
       "group": "volatile",
-      "price": 196.07,
+      "price": 195.11,
       "currency": "USD",
-      "dailyMove": -1.58,
-      "weeklyMove": 0.93,
-      "monthlyMove": 7.86,
-      "sixMonthMove": 21.67,
-      "ytdMove": -17.11,
-      "trendStrength": 8.2,
-      "volatility": 5.64,
-      "volPenalty": 16.9,
-      "distanceFromHigh": -2.49,
-      "distanceFromLow": 34.84,
+      "dailyMove": -2.06,
+      "weeklyMove": 0.44,
+      "monthlyMove": 7.33,
+      "sixMonthMove": 21.08,
+      "ytdMove": -17.51,
+      "trendStrength": 8.19,
+      "volatility": 5.65,
+      "volPenalty": 17.0,
+      "distanceFromHigh": -2.96,
+      "distanceFromLow": 34.18,
       "cusum": {
         "status": "no_change",
-        "upperStat": 14.515,
-        "lowerStat": -9.83,
-        "threshold": 17.901,
-        "baselineMean": -0.106,
-        "baselineStdev": 4.475
+        "upperStat": 14.53,
+        "lowerStat": -9.804,
+        "threshold": 17.932,
+        "baselineMean": -0.115,
+        "baselineStdev": 4.483
       },
       "expectedRange": {
         "horizonTradingDays": 21,
-        "low": -27.4,
-        "high": 24.3,
-        "projectedMean": -1.6
+        "low": -27.7,
+        "high": 24.1,
+        "projectedMean": -1.8
       },
       "regimeProbabilities": {
-        "bull": 0.5192,
-        "neutral": 0.4162,
-        "bear": 0.0646
+        "bull": 0.5107,
+        "neutral": 0.4219,
+        "bear": 0.0674
       },
-      "score": 51,
+      "score": 50,
       "action": "AVOID",
       "risk": "High",
       "confidence": "Medium",
@@ -999,44 +999,44 @@
         -5.84,
         20.44
       ],
-      "updatedAt": 1790364149
+      "updatedAt": 1790377137
     },
     "SMCI": {
       "symbol": "SMCI",
       "companyName": "Super Micro Computer, Inc.",
       "group": "volatile",
-      "price": 43.09,
+      "price": 43.26,
       "currency": "USD",
-      "dailyMove": 3.81,
-      "weeklyMove": 10.23,
-      "monthlyMove": 15.24,
-      "sixMonthMove": 96.13,
-      "ytdMove": 39.18,
-      "trendStrength": 11.29,
-      "volatility": 4.19,
+      "dailyMove": 4.22,
+      "weeklyMove": 10.67,
+      "monthlyMove": 15.7,
+      "sixMonthMove": 96.9,
+      "ytdMove": 39.73,
+      "trendStrength": 11.3,
+      "volatility": 4.21,
       "volPenalty": 12.6,
       "distanceFromHigh": 0.0,
-      "distanceFromLow": 80.82,
+      "distanceFromLow": 81.54,
       "cusum": {
         "status": "no_change",
-        "upperStat": 6.738,
-        "lowerStat": -5.631,
-        "threshold": 23.794,
-        "baselineMean": 0.103,
-        "baselineStdev": 5.949
+        "upperStat": 6.716,
+        "lowerStat": -5.628,
+        "threshold": 23.845,
+        "baselineMean": 0.108,
+        "baselineStdev": 5.961
       },
       "expectedRange": {
         "horizonTradingDays": 21,
         "low": -16.1,
-        "high": 22.3,
-        "projectedMean": 3.1
+        "high": 22.5,
+        "projectedMean": 3.2
       },
       "regimeProbabilities": {
-        "bull": 0.212,
-        "neutral": 0.7706,
-        "bear": 0.0173
+        "bull": 0.2226,
+        "neutral": 0.7612,
+        "bear": 0.0162
       },
-      "score": 49,
+      "score": 50,
       "action": "AVOID",
       "risk": "High",
       "confidence": "Medium",
@@ -1047,7 +1047,7 @@
         -5.34,
         12.46
       ],
-      "updatedAt": 1790364149
+      "updatedAt": 1790377137
     }
   }
 }
