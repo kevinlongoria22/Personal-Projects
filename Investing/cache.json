@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1790971282,
+  "generatedAt": 1790983669,
   "groups": {
     "big_tech": [
       "AAPL",
@@ -87,7 +87,7 @@
         1.39,
         -1.19
       ],
-      "updatedAt": 1790971280
+      "updatedAt": 1790983667
     },
     "MSFT": {
       "symbol": "MSFT",
@@ -135,7 +135,7 @@
         2.1,
         2.46
       ],
-      "updatedAt": 1790971280
+      "updatedAt": 1790983668
     },
     "GOOGL": {
       "symbol": "GOOGL",
@@ -183,7 +183,7 @@
         -1.47,
         1.85
       ],
-      "updatedAt": 1790971280
+      "updatedAt": 1790983668
     },
     "AMZN": {
       "symbol": "AMZN",
@@ -231,7 +231,7 @@
         1.35,
         -0.05
       ],
-      "updatedAt": 1790971280
+      "updatedAt": 1790983668
     },
     "META": {
       "symbol": "META",
@@ -279,7 +279,7 @@
         10.51,
         -2.54
       ],
-      "updatedAt": 1790971280
+      "updatedAt": 1790983668
     },
     "NVDA": {
       "symbol": "NVDA",
@@ -327,7 +327,7 @@
         5.43,
         1.27
       ],
-      "updatedAt": 1790971280
+      "updatedAt": 1790983668
     },
     "AMD": {
       "symbol": "AMD",
@@ -375,7 +375,7 @@
         19.92,
         -0.46
       ],
-      "updatedAt": 1790971281
+      "updatedAt": 1790983668
     },
     "AVGO": {
       "symbol": "AVGO",
@@ -423,7 +423,7 @@
         4.56,
         -1.07
       ],
-      "updatedAt": 1790971281
+      "updatedAt": 1790983668
     },
     "ARM": {
       "symbol": "ARM",
@@ -471,24 +471,24 @@
         36.31,
         -12.9
       ],
-      "updatedAt": 1790971281
+      "updatedAt": 1790983668
     },
     "DELL": {
       "symbol": "DELL",
       "companyName": "Dell Technologies Inc.",
       "group": "pc_makers",
-      "price": 562.54,
+      "price": 562.52,
       "currency": "USD",
       "dailyMove": 3.84,
-      "weeklyMove": -0.06,
+      "weeklyMove": -0.07,
       "monthlyMove": 14.29,
-      "sixMonthMove": 224.83,
-      "ytdMove": 340.17,
+      "sixMonthMove": 224.82,
+      "ytdMove": 340.16,
       "trendStrength": 12.11,
       "volatility": 4.1,
       "volPenalty": 12.3,
       "distanceFromHigh": -4.4,
-      "distanceFromLow": 52.19,
+      "distanceFromLow": 52.18,
       "cusum": {
         "status": "no_change",
         "upperStat": 8.905,
@@ -506,7 +506,7 @@
       "regimeProbabilities": {
         "bull": 0.0749,
         "neutral": 0.574,
-        "bear": 0.3511
+        "bear": 0.3512
       },
       "score": 37,
       "action": "AVOID",
@@ -519,7 +519,7 @@
         -2.39,
         -2.16
       ],
-      "updatedAt": 1790971281
+      "updatedAt": 1790983668
     },
     "HPQ": {
       "symbol": "HPQ",
@@ -527,16 +527,16 @@
       "group": "pc_makers",
       "price": 32.12,
       "currency": "USD",
-      "dailyMove": -0.08,
-      "weeklyMove": 2.64,
-      "monthlyMove": 0.42,
-      "sixMonthMove": 69.61,
-      "ytdMove": 45.23,
+      "dailyMove": -0.09,
+      "weeklyMove": 2.62,
+      "monthlyMove": 0.41,
+      "sixMonthMove": 69.59,
+      "ytdMove": 45.21,
       "trendStrength": 6.47,
       "volatility": 3.37,
       "volPenalty": 10.1,
-      "distanceFromHigh": -9.46,
-      "distanceFromLow": 39.92,
+      "distanceFromHigh": -9.47,
+      "distanceFromLow": 39.9,
       "cusum": {
         "status": "no_change",
         "upperStat": 8.746,
@@ -552,9 +552,9 @@
         "projectedMean": 2.4
       },
       "regimeProbabilities": {
-        "bull": 0.0562,
-        "neutral": 0.4502,
-        "bear": 0.4936
+        "bull": 0.056,
+        "neutral": 0.4497,
+        "bear": 0.4942
       },
       "score": 35,
       "action": "AVOID",
@@ -567,24 +567,24 @@
         -1.65,
         -2.74
       ],
-      "updatedAt": 1790971281
+      "updatedAt": 1790983668
     },
     "LNVGY": {
       "symbol": "LNVGY",
       "companyName": "Lenovo Group Limited",
       "group": "pc_makers",
-      "price": 87.53,
+      "price": 87.67,
       "currency": "USD",
-      "dailyMove": -0.61,
-      "weeklyMove": -8.05,
-      "monthlyMove": 9.77,
-      "sixMonthMove": 250.68,
-      "ytdMove": 255.81,
-      "trendStrength": 11.18,
+      "dailyMove": -0.45,
+      "weeklyMove": -7.9,
+      "monthlyMove": 9.94,
+      "sixMonthMove": 251.24,
+      "ytdMove": 256.38,
+      "trendStrength": 11.19,
       "volatility": 3.88,
       "volPenalty": 11.6,
-      "distanceFromHigh": -8.65,
-      "distanceFromLow": 63.58,
+      "distanceFromHigh": -8.51,
+      "distanceFromLow": 63.84,
       "cusum": {
         "status": "no_change",
         "upperStat": 11.063,
@@ -595,16 +595,16 @@
       },
       "expectedRange": {
         "horizonTradingDays": 21,
-        "low": -7.4,
+        "low": -7.3,
         "high": 28.2,
         "projectedMean": 10.4
       },
       "regimeProbabilities": {
-        "bull": 0.007,
-        "neutral": 0.3383,
-        "bear": 0.6547
+        "bull": 0.0072,
+        "neutral": 0.344,
+        "bear": 0.6487
       },
-      "score": 28,
+      "score": 29,
       "action": "AVOID",
       "risk": "High",
       "confidence": "Medium",
@@ -615,7 +615,7 @@
         9.12,
         -6.62
       ],
-      "updatedAt": 1790971281
+      "updatedAt": 1790983668
     },
     "MU": {
       "symbol": "MU",
@@ -663,7 +663,7 @@
         15.69,
         -0.63
       ],
-      "updatedAt": 1790971281
+      "updatedAt": 1790983669
     },
     "WDC": {
       "symbol": "WDC",
@@ -711,7 +711,7 @@
         13.6,
         -4.06
       ],
-      "updatedAt": 1790971281
+      "updatedAt": 1790983669
     },
     "STX": {
       "symbol": "STX",
@@ -759,7 +759,7 @@
         17.96,
         -0.16
       ],
-      "updatedAt": 1790971282
+      "updatedAt": 1790983669
     },
     "TSLA": {
       "symbol": "TSLA",
@@ -807,7 +807,7 @@
         6.16,
         -6.66
       ],
-      "updatedAt": 1790971282
+      "updatedAt": 1790983669
     },
     "NFLX": {
       "symbol": "NFLX",
@@ -855,7 +855,7 @@
         -6.61,
         -2.49
       ],
-      "updatedAt": 1790971282
+      "updatedAt": 1790983669
     },
     "PLTR": {
       "symbol": "PLTR",
@@ -903,7 +903,7 @@
         10.01,
         -2.47
       ],
-      "updatedAt": 1790971282
+      "updatedAt": 1790983669
     },
     "MSTR": {
       "symbol": "MSTR",
@@ -951,7 +951,7 @@
         28.55,
         -5.62
       ],
-      "updatedAt": 1790971282
+      "updatedAt": 1790983669
     },
     "COIN": {
       "symbol": "COIN",
@@ -999,7 +999,7 @@
         20.44,
         -5.92
       ],
-      "updatedAt": 1790971282
+      "updatedAt": 1790983669
     },
     "SMCI": {
       "symbol": "SMCI",
@@ -1047,7 +1047,7 @@
         12.46,
         -0.89
       ],
-      "updatedAt": 1790971282
+      "updatedAt": 1790983669
     }
   }
 }
