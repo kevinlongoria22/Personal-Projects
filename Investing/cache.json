@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1791589464,
+  "generatedAt": 1791619079,
   "groups": {
     "big_tech": [
       "AAPL",
@@ -87,7 +87,7 @@
         -1.19,
         1.1
       ],
-      "updatedAt": 1791589460
+      "updatedAt": 1791619075
     },
     "MSFT": {
       "symbol": "MSFT",
@@ -135,7 +135,7 @@
         2.46,
         3.29
       ],
-      "updatedAt": 1791589460
+      "updatedAt": 1791619075
     },
     "GOOGL": {
       "symbol": "GOOGL",
@@ -183,7 +183,7 @@
         1.85,
         1.87
       ],
-      "updatedAt": 1791589460
+      "updatedAt": 1791619076
     },
     "AMZN": {
       "symbol": "AMZN",
@@ -231,7 +231,7 @@
         -0.05,
         4.32
       ],
-      "updatedAt": 1791589460
+      "updatedAt": 1791619076
     },
     "META": {
       "symbol": "META",
@@ -279,7 +279,7 @@
         -2.54,
         -0.53
       ],
-      "updatedAt": 1791589460
+      "updatedAt": 1791619076
     },
     "NVDA": {
       "symbol": "NVDA",
@@ -327,7 +327,7 @@
         1.27,
         3.98
       ],
-      "updatedAt": 1791589461
+      "updatedAt": 1791619076
     },
     "AMD": {
       "symbol": "AMD",
@@ -375,7 +375,7 @@
         -0.46,
         5.57
       ],
-      "updatedAt": 1791589461
+      "updatedAt": 1791619076
     },
     "AVGO": {
       "symbol": "AVGO",
@@ -423,7 +423,7 @@
         -1.07,
         7.21
       ],
-      "updatedAt": 1791589461
+      "updatedAt": 1791619077
     },
     "ARM": {
       "symbol": "ARM",
@@ -471,7 +471,7 @@
         -12.9,
         1.63
       ],
-      "updatedAt": 1791589461
+      "updatedAt": 1791619077
     },
     "DELL": {
       "symbol": "DELL",
@@ -519,7 +519,7 @@
         -2.16,
         7.62
       ],
-      "updatedAt": 1791589461
+      "updatedAt": 1791619077
     },
     "HPQ": {
       "symbol": "HPQ",
@@ -567,7 +567,7 @@
         -2.74,
         3.07
       ],
-      "updatedAt": 1791589462
+      "updatedAt": 1791619077
     },
     "LNVGY": {
       "symbol": "LNVGY",
@@ -615,7 +615,7 @@
         -6.62,
         2.86
       ],
-      "updatedAt": 1791589462
+      "updatedAt": 1791619077
     },
     "MU": {
       "symbol": "MU",
@@ -663,7 +663,7 @@
         -0.63,
         2.15
       ],
-      "updatedAt": 1791589462
+      "updatedAt": 1791619078
     },
     "WDC": {
       "symbol": "WDC",
@@ -711,7 +711,7 @@
         -4.06,
         -10.79
       ],
-      "updatedAt": 1791589462
+      "updatedAt": 1791619078
     },
     "STX": {
       "symbol": "STX",
@@ -759,7 +759,7 @@
         -0.16,
         -12.44
       ],
-      "updatedAt": 1791589463
+      "updatedAt": 1791619078
     },
     "TSLA": {
       "symbol": "TSLA",
@@ -807,7 +807,7 @@
         -6.66,
         6.48
       ],
-      "updatedAt": 1791589463
+      "updatedAt": 1791619078
     },
     "NFLX": {
       "symbol": "NFLX",
@@ -855,7 +855,7 @@
         -2.49,
         0.17
       ],
-      "updatedAt": 1791589463
+      "updatedAt": 1791619079
     },
     "PLTR": {
       "symbol": "PLTR",
@@ -903,7 +903,7 @@
         -2.47,
         3.78
       ],
-      "updatedAt": 1791589463
+      "updatedAt": 1791619079
     },
     "MSTR": {
       "symbol": "MSTR",
@@ -951,7 +951,7 @@
         -5.62,
         0.18
       ],
-      "updatedAt": 1791589463
+      "updatedAt": 1791619079
     },
     "COIN": {
       "symbol": "COIN",
@@ -999,24 +999,24 @@
         -5.92,
         -4.27
       ],
-      "updatedAt": 1791589464
+      "updatedAt": 1791619079
     },
     "SMCI": {
       "symbol": "SMCI",
       "companyName": "Super Micro Computer, Inc.",
       "group": "volatile",
-      "price": 41.85,
+      "price": 41.86,
       "currency": "USD",
-      "dailyMove": -2.14,
-      "weeklyMove": -4.2,
-      "monthlyMove": 11.97,
-      "sixMonthMove": 61.17,
-      "ytdMove": 35.19,
+      "dailyMove": -2.13,
+      "weeklyMove": -4.19,
+      "monthlyMove": 11.99,
+      "sixMonthMove": 61.19,
+      "ytdMove": 35.21,
       "trendStrength": 8.32,
       "volatility": 3.97,
       "volPenalty": 11.9,
-      "distanceFromHigh": -6.86,
-      "distanceFromLow": 75.64,
+      "distanceFromHigh": -6.85,
+      "distanceFromLow": 75.66,
       "cusum": {
         "status": "no_change",
         "upperStat": 6.855,
@@ -1033,8 +1033,8 @@
       },
       "regimeProbabilities": {
         "bull": 0.0217,
-        "neutral": 0.8879,
-        "bear": 0.0904
+        "neutral": 0.8881,
+        "bear": 0.0901
       },
       "score": 32,
       "action": "AVOID",
@@ -1047,7 +1047,7 @@
         -0.89,
         9.42
       ],
-      "updatedAt": 1791589464
+      "updatedAt": 1791619079
     }
   }
 }
