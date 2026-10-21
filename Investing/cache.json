@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1792536666,
+  "generatedAt": 1792565533,
   "groups": {
     "big_tech": [
       "AAPL",
@@ -87,7 +87,7 @@
         0.88,
         2.03
       ],
-      "updatedAt": 1792536664
+      "updatedAt": 1792565531
     },
     "MSFT": {
       "symbol": "MSFT",
@@ -135,13 +135,13 @@
         3.39,
         -1.13
       ],
-      "updatedAt": 1792536664
+      "updatedAt": 1792565531
     },
     "GOOGL": {
       "symbol": "GOOGL",
       "companyName": "Alphabet Inc.",
       "group": "big_tech",
-      "price": 340.27,
+      "price": 340.28,
       "currency": "USD",
       "dailyMove": -1.13,
       "weeklyMove": -3.82,
@@ -169,8 +169,8 @@
       },
       "regimeProbabilities": {
         "bull": 0.0101,
-        "neutral": 0.6425,
-        "bear": 0.3474
+        "neutral": 0.6427,
+        "bear": 0.3472
       },
       "score": 28,
       "action": "AVOID",
@@ -183,7 +183,7 @@
         2.38,
         -3.15
       ],
-      "updatedAt": 1792536664
+      "updatedAt": 1792565531
     },
     "AMZN": {
       "symbol": "AMZN",
@@ -231,7 +231,7 @@
         4.34,
         -4.74
       ],
-      "updatedAt": 1792536664
+      "updatedAt": 1792565531
     },
     "META": {
       "symbol": "META",
@@ -279,7 +279,7 @@
         -1.29,
         -1.3
       ],
-      "updatedAt": 1792536664
+      "updatedAt": 1792565532
     },
     "NVDA": {
       "symbol": "NVDA",
@@ -327,7 +327,7 @@
         -2.0,
         -6.61
       ],
-      "updatedAt": 1792536664
+      "updatedAt": 1792565532
     },
     "AMD": {
       "symbol": "AMD",
@@ -375,7 +375,7 @@
         -4.07,
         -13.05
       ],
-      "updatedAt": 1792536665
+      "updatedAt": 1792565532
     },
     "AVGO": {
       "symbol": "AVGO",
@@ -423,7 +423,7 @@
         1.8,
         -9.07
       ],
-      "updatedAt": 1792536665
+      "updatedAt": 1792565532
     },
     "ARM": {
       "symbol": "ARM",
@@ -471,7 +471,7 @@
         -13.4,
         -14.45
       ],
-      "updatedAt": 1792536665
+      "updatedAt": 1792565532
     },
     "DELL": {
       "symbol": "DELL",
@@ -519,7 +519,7 @@
         4.18,
         -22.92
       ],
-      "updatedAt": 1792536665
+      "updatedAt": 1792565532
     },
     "HPQ": {
       "symbol": "HPQ",
@@ -567,7 +567,7 @@
         -5.98,
         -0.63
       ],
-      "updatedAt": 1792536665
+      "updatedAt": 1792565532
     },
     "LNVGY": {
       "symbol": "LNVGY",
@@ -615,7 +615,7 @@
         -3.74,
         -16.92
       ],
-      "updatedAt": 1792536665
+      "updatedAt": 1792565532
     },
     "MU": {
       "symbol": "MU",
@@ -663,7 +663,7 @@
         -4.27,
         -14.59
       ],
-      "updatedAt": 1792536665
+      "updatedAt": 1792565532
     },
     "WDC": {
       "symbol": "WDC",
@@ -711,7 +711,7 @@
         -4.34,
         -16.43
       ],
-      "updatedAt": 1792536665
+      "updatedAt": 1792565532
     },
     "STX": {
       "symbol": "STX",
@@ -759,7 +759,7 @@
         -7.77,
         -18.39
       ],
-      "updatedAt": 1792536666
+      "updatedAt": 1792565532
     },
     "TSLA": {
       "symbol": "TSLA",
@@ -807,7 +807,7 @@
         3.27,
         -7.31
       ],
-      "updatedAt": 1792536666
+      "updatedAt": 1792565532
     },
     "NFLX": {
       "symbol": "NFLX",
@@ -855,7 +855,7 @@
         4.83,
         0.33
       ],
-      "updatedAt": 1792536666
+      "updatedAt": 1792565533
     },
     "PLTR": {
       "symbol": "PLTR",
@@ -903,7 +903,7 @@
         10.75,
         -11.01
       ],
-      "updatedAt": 1792536666
+      "updatedAt": 1792565533
     },
     "MSTR": {
       "symbol": "MSTR",
@@ -951,7 +951,7 @@
         -3.54,
         -11.35
       ],
-      "updatedAt": 1792536666
+      "updatedAt": 1792565533
     },
     "COIN": {
       "symbol": "COIN",
@@ -999,7 +999,7 @@
         -1.97,
         -3.47
       ],
-      "updatedAt": 1792536666
+      "updatedAt": 1792565533
     },
     "SMCI": {
       "symbol": "SMCI",
@@ -1047,7 +1047,7 @@
         -4.19,
         -24.44
       ],
-      "updatedAt": 1792536666
+      "updatedAt": 1792565533
     }
   }
 }
