@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1793131775,
+  "generatedAt": 1793143459,
   "groups": {
     "big_tech": [
       "AAPL",
@@ -87,7 +87,7 @@
         2.03,
         1.24
       ],
-      "updatedAt": 1793131772
+      "updatedAt": 1793143457
     },
     "MSFT": {
       "symbol": "MSFT",
@@ -135,7 +135,7 @@
         -1.13,
         -0.86
       ],
-      "updatedAt": 1793131772
+      "updatedAt": 1793143457
     },
     "GOOGL": {
       "symbol": "GOOGL",
@@ -183,7 +183,7 @@
         -3.15,
         -5.98
       ],
-      "updatedAt": 1793131772
+      "updatedAt": 1793143457
     },
     "AMZN": {
       "symbol": "AMZN",
@@ -231,7 +231,7 @@
         -4.74,
         -0.8
       ],
-      "updatedAt": 1793131772
+      "updatedAt": 1793143457
     },
     "META": {
       "symbol": "META",
@@ -279,7 +279,7 @@
         -1.3,
         -9.4
       ],
-      "updatedAt": 1793131772
+      "updatedAt": 1793143458
     },
     "NVDA": {
       "symbol": "NVDA",
@@ -327,7 +327,7 @@
         -6.61,
         -1.48
       ],
-      "updatedAt": 1793131772
+      "updatedAt": 1793143458
     },
     "AMD": {
       "symbol": "AMD",
@@ -375,7 +375,7 @@
         -13.05,
         -2.26
       ],
-      "updatedAt": 1793131773
+      "updatedAt": 1793143458
     },
     "AVGO": {
       "symbol": "AVGO",
@@ -423,7 +423,7 @@
         -9.07,
         -2.15
       ],
-      "updatedAt": 1793131773
+      "updatedAt": 1793143458
     },
     "ARM": {
       "symbol": "ARM",
@@ -471,27 +471,27 @@
         -14.45,
         -7.67
       ],
-      "updatedAt": 1793131773
+      "updatedAt": 1793143458
     },
     "DELL": {
       "symbol": "DELL",
       "companyName": "Dell Technologies Inc.",
       "group": "pc_makers",
-      "price": 501.57,
+      "price": 501.96,
       "currency": "USD",
-      "dailyMove": 7.38,
-      "weeklyMove": 8.67,
-      "monthlyMove": -7.7,
-      "sixMonthMove": 143.88,
-      "ytdMove": 292.46,
+      "dailyMove": 7.47,
+      "weeklyMove": 8.75,
+      "monthlyMove": -7.63,
+      "sixMonthMove": 144.07,
+      "ytdMove": 292.77,
       "trendStrength": 1.12,
-      "volatility": 4.31,
-      "volPenalty": 12.9,
-      "distanceFromHigh": -14.76,
-      "distanceFromLow": 23.9,
+      "volatility": 4.32,
+      "volPenalty": 13.0,
+      "distanceFromHigh": -14.69,
+      "distanceFromLow": 24.0,
       "cusum": {
         "status": "no_change",
-        "upperStat": 4.327,
+        "upperStat": 4.41,
         "lowerStat": -17.257,
         "threshold": 19.416,
         "baselineMean": 0.628,
@@ -500,13 +500,13 @@
       "expectedRange": {
         "horizonTradingDays": 21,
         "low": -8.1,
-        "high": 31.4,
+        "high": 31.5,
         "projectedMean": 11.7
       },
       "regimeProbabilities": {
-        "bull": 0.0033,
-        "neutral": 0.2984,
-        "bear": 0.6982
+        "bull": 0.0034,
+        "neutral": 0.3015,
+        "bear": 0.6951
       },
       "score": 25,
       "action": "AVOID",
@@ -519,24 +519,24 @@
         -22.92,
         1.05
       ],
-      "updatedAt": 1793131773
+      "updatedAt": 1793143458
     },
     "HPQ": {
       "symbol": "HPQ",
       "companyName": "HP Inc.",
       "group": "pc_makers",
-      "price": 33.56,
+      "price": 33.58,
       "currency": "USD",
-      "dailyMove": -1.57,
-      "weeklyMove": 7.51,
-      "monthlyMove": 7.14,
-      "sixMonthMove": 66.61,
-      "ytdMove": 51.7,
+      "dailyMove": -1.5,
+      "weeklyMove": 7.59,
+      "monthlyMove": 7.22,
+      "sixMonthMove": 66.73,
+      "ytdMove": 51.81,
       "trendStrength": 0.07,
       "volatility": 2.78,
       "volPenalty": 8.3,
-      "distanceFromHigh": -5.43,
-      "distanceFromLow": 24.93,
+      "distanceFromHigh": -5.36,
+      "distanceFromLow": 25.02,
       "cusum": {
         "status": "no_change",
         "upperStat": 6.748,
@@ -552,11 +552,11 @@
         "projectedMean": 2.4
       },
       "regimeProbabilities": {
-        "bull": 0.5499,
-        "neutral": 0.425,
-        "bear": 0.0251
+        "bull": 0.5534,
+        "neutral": 0.4221,
+        "bear": 0.0245
       },
-      "score": 53,
+      "score": 54,
       "action": "AVOID",
       "risk": "Moderate",
       "confidence": "Medium",
@@ -567,24 +567,24 @@
         -0.63,
         12.1
       ],
-      "updatedAt": 1793131773
+      "updatedAt": 1793143458
     },
     "LNVGY": {
       "symbol": "LNVGY",
       "companyName": "Lenovo Group Limited",
       "group": "pc_makers",
-      "price": 58.3,
+      "price": 58.59,
       "currency": "USD",
-      "dailyMove": 4.31,
-      "weeklyMove": -10.75,
-      "monthlyMove": -35.58,
-      "sixMonthMove": 94.4,
-      "ytdMove": 136.99,
-      "trendStrength": -5.82,
-      "volatility": 4.65,
-      "volPenalty": 13.9,
-      "distanceFromHigh": -39.16,
-      "distanceFromLow": 4.31,
+      "dailyMove": 4.83,
+      "weeklyMove": -10.3,
+      "monthlyMove": -35.26,
+      "sixMonthMove": 95.37,
+      "ytdMove": 138.17,
+      "trendStrength": -5.81,
+      "volatility": 4.68,
+      "volPenalty": 14.0,
+      "distanceFromHigh": -38.85,
+      "distanceFromLow": 4.83,
       "cusum": {
         "status": "downside_shift",
         "upperStat": 3.309,
@@ -595,14 +595,14 @@
       },
       "expectedRange": {
         "horizonTradingDays": 21,
-        "low": -14.0,
-        "high": 28.5,
+        "low": -14.2,
+        "high": 28.8,
         "projectedMean": 7.3
       },
       "regimeProbabilities": {
-        "bull": 0.0019,
-        "neutral": 0.1007,
-        "bear": 0.8974
+        "bull": 0.0022,
+        "neutral": 0.1066,
+        "bear": 0.8912
       },
       "score": 0,
       "action": "AVOID",
@@ -615,7 +615,7 @@
         -16.92,
         -17.24
       ],
-      "updatedAt": 1793131773
+      "updatedAt": 1793143458
     },
     "MU": {
       "symbol": "MU",
@@ -663,7 +663,7 @@
         -14.59,
         -0.15
       ],
-      "updatedAt": 1793131774
+      "updatedAt": 1793143458
     },
     "WDC": {
       "symbol": "WDC",
@@ -711,7 +711,7 @@
         -16.43,
         3.52
       ],
-      "updatedAt": 1793131774
+      "updatedAt": 1793143458
     },
     "STX": {
       "symbol": "STX",
@@ -759,7 +759,7 @@
         -18.39,
         -1.33
       ],
-      "updatedAt": 1793131774
+      "updatedAt": 1793143458
     },
     "TSLA": {
       "symbol": "TSLA",
@@ -807,7 +807,7 @@
         -7.31,
         4.93
       ],
-      "updatedAt": 1793131774
+      "updatedAt": 1793143458
     },
     "NFLX": {
       "symbol": "NFLX",
@@ -855,7 +855,7 @@
         0.33,
         -6.64
       ],
-      "updatedAt": 1793131774
+      "updatedAt": 1793143459
     },
     "PLTR": {
       "symbol": "PLTR",
@@ -903,7 +903,7 @@
         -11.01,
         5.76
       ],
-      "updatedAt": 1793131774
+      "updatedAt": 1793143459
     },
     "MSTR": {
       "symbol": "MSTR",
@@ -951,7 +951,7 @@
         -11.35,
         6.71
       ],
-      "updatedAt": 1793131774
+      "updatedAt": 1793143459
     },
     "COIN": {
       "symbol": "COIN",
@@ -999,7 +999,7 @@
         -3.47,
         -5.03
       ],
-      "updatedAt": 1793131774
+      "updatedAt": 1793143459
     },
     "SMCI": {
       "symbol": "SMCI",
@@ -1047,7 +1047,7 @@
         -24.44,
         4.14
       ],
-      "updatedAt": 1793131775
+      "updatedAt": 1793143459
     }
   }
 }
