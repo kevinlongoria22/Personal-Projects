@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1794356424,
+  "generatedAt": 1794386535,
   "groups": {
     "big_tech": [
       "AAPL",
@@ -87,7 +87,7 @@
         -0.89,
         -0.66
       ],
-      "updatedAt": 1794356420
+      "updatedAt": 1794386533
     },
     "MSFT": {
       "symbol": "MSFT",
@@ -135,7 +135,7 @@
         -0.5,
         1.67
       ],
-      "updatedAt": 1794356420
+      "updatedAt": 1794386533
     },
     "GOOGL": {
       "symbol": "GOOGL",
@@ -183,7 +183,7 @@
         -12.61,
         1.77
       ],
-      "updatedAt": 1794356420
+      "updatedAt": 1794386534
     },
     "AMZN": {
       "symbol": "AMZN",
@@ -231,7 +231,7 @@
         -3.08,
         7.88
       ],
-      "updatedAt": 1794356420
+      "updatedAt": 1794386534
     },
     "META": {
       "symbol": "META",
@@ -279,7 +279,7 @@
         -4.3,
         -0.79
       ],
-      "updatedAt": 1794356421
+      "updatedAt": 1794386534
     },
     "NVDA": {
       "symbol": "NVDA",
@@ -327,7 +327,7 @@
         -3.0,
         -8.8
       ],
-      "updatedAt": 1794356421
+      "updatedAt": 1794386534
     },
     "AMD": {
       "symbol": "AMD",
@@ -375,7 +375,7 @@
         -2.32,
         -11.05
       ],
-      "updatedAt": 1794356421
+      "updatedAt": 1794386534
     },
     "AVGO": {
       "symbol": "AVGO",
@@ -423,7 +423,7 @@
         1.37,
         -9.93
       ],
-      "updatedAt": 1794356421
+      "updatedAt": 1794386534
     },
     "ARM": {
       "symbol": "ARM",
@@ -471,7 +471,7 @@
         -2.07,
         -15.22
       ],
-      "updatedAt": 1794356421
+      "updatedAt": 1794386534
     },
     "DELL": {
       "symbol": "DELL",
@@ -519,7 +519,7 @@
         -7.04,
         -22.57
       ],
-      "updatedAt": 1794356422
+      "updatedAt": 1794386534
     },
     "HPQ": {
       "symbol": "HPQ",
@@ -567,7 +567,7 @@
         -14.45,
         -1.11
       ],
-      "updatedAt": 1794356422
+      "updatedAt": 1794386534
     },
     "LNVGY": {
       "symbol": "LNVGY",
@@ -615,7 +615,7 @@
         -12.43,
         -3.46
       ],
-      "updatedAt": 1794356422
+      "updatedAt": 1794386534
     },
     "MU": {
       "symbol": "MU",
@@ -663,7 +663,7 @@
         0.82,
         -22.01
       ],
-      "updatedAt": 1794356422
+      "updatedAt": 1794386534
     },
     "WDC": {
       "symbol": "WDC",
@@ -711,7 +711,7 @@
         6.53,
         -27.95
       ],
-      "updatedAt": 1794356422
+      "updatedAt": 1794386534
     },
     "STX": {
       "symbol": "STX",
@@ -759,7 +759,7 @@
         2.23,
         -28.48
       ],
-      "updatedAt": 1794356423
+      "updatedAt": 1794386534
     },
     "TSLA": {
       "symbol": "TSLA",
@@ -807,7 +807,7 @@
         7.41,
         -10.4
       ],
-      "updatedAt": 1794356423
+      "updatedAt": 1794386535
     },
     "NFLX": {
       "symbol": "NFLX",
@@ -855,7 +855,7 @@
         -5.73,
         2.14
       ],
-      "updatedAt": 1794356423
+      "updatedAt": 1794386535
     },
     "PLTR": {
       "symbol": "PLTR",
@@ -903,7 +903,7 @@
         -6.42,
         -12.89
       ],
-      "updatedAt": 1794356423
+      "updatedAt": 1794386535
     },
     "MSTR": {
       "symbol": "MSTR",
@@ -951,7 +951,7 @@
         -10.62,
         -1.21
       ],
-      "updatedAt": 1794356423
+      "updatedAt": 1794386535
     },
     "COIN": {
       "symbol": "COIN",
@@ -999,7 +999,7 @@
         -12.72,
         -6.12
       ],
-      "updatedAt": 1794356424
+      "updatedAt": 1794386535
     },
     "SMCI": {
       "symbol": "SMCI",
@@ -1047,7 +1047,7 @@
         0.03,
         -12.72
       ],
-      "updatedAt": 1794356424
+      "updatedAt": 1794386535
     }
   }
 }
