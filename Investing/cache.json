@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1794616500,
+  "generatedAt": 1794644706,
   "groups": {
     "big_tech": [
       "AAPL",
@@ -87,7 +87,7 @@
         1.65,
         1.75
       ],
-      "updatedAt": 1794616496
+      "updatedAt": 1794644701
     },
     "MSFT": {
       "symbol": "MSFT",
@@ -135,7 +135,7 @@
         4.67,
         -6.24
       ],
-      "updatedAt": 1794616497
+      "updatedAt": 1794644701
     },
     "GOOGL": {
       "symbol": "GOOGL",
@@ -183,7 +183,7 @@
         -11.07,
         1.56
       ],
-      "updatedAt": 1794616497
+      "updatedAt": 1794644702
     },
     "AMZN": {
       "symbol": "AMZN",
@@ -231,7 +231,7 @@
         4.49,
         0.05
       ],
-      "updatedAt": 1794616497
+      "updatedAt": 1794644702
     },
     "META": {
       "symbol": "META",
@@ -279,7 +279,7 @@
         2.86,
         -0.2
       ],
-      "updatedAt": 1794616497
+      "updatedAt": 1794644702
     },
     "NVDA": {
       "symbol": "NVDA",
@@ -327,7 +327,7 @@
         -7.08,
         -13.19
       ],
-      "updatedAt": 1794616497
+      "updatedAt": 1794644702
     },
     "AMD": {
       "symbol": "AMD",
@@ -375,7 +375,7 @@
         -15.5,
         13.12
       ],
-      "updatedAt": 1794616497
+      "updatedAt": 1794644703
     },
     "AVGO": {
       "symbol": "AVGO",
@@ -423,7 +423,7 @@
         -7.48,
         6.06
       ],
-      "updatedAt": 1794616498
+      "updatedAt": 1794644703
     },
     "ARM": {
       "symbol": "ARM",
@@ -471,7 +471,7 @@
         -18.69,
         6.03
       ],
-      "updatedAt": 1794616498
+      "updatedAt": 1794644703
     },
     "DELL": {
       "symbol": "DELL",
@@ -519,7 +519,7 @@
         -24.59,
         0.35
       ],
-      "updatedAt": 1794616498
+      "updatedAt": 1794644703
     },
     "HPQ": {
       "symbol": "HPQ",
@@ -567,7 +567,7 @@
         -7.77,
         -3.24
       ],
-      "updatedAt": 1794616498
+      "updatedAt": 1794644704
     },
     "LNVGY": {
       "symbol": "LNVGY",
@@ -615,7 +615,7 @@
         -14.36,
         -2.51
       ],
-      "updatedAt": 1794616498
+      "updatedAt": 1794644704
     },
     "MU": {
       "symbol": "MU",
@@ -663,7 +663,7 @@
         -19.12,
         2.02
       ],
-      "updatedAt": 1794616498
+      "updatedAt": 1794644704
     },
     "WDC": {
       "symbol": "WDC",
@@ -711,7 +711,7 @@
         -18.31,
         -3.25
       ],
-      "updatedAt": 1794616499
+      "updatedAt": 1794644704
     },
     "STX": {
       "symbol": "STX",
@@ -759,7 +759,7 @@
         -20.19,
         -0.96
       ],
-      "updatedAt": 1794616499
+      "updatedAt": 1794644705
     },
     "TSLA": {
       "symbol": "TSLA",
@@ -807,7 +807,7 @@
         -4.71,
         1.47
       ],
-      "updatedAt": 1794616499
+      "updatedAt": 1794644705
     },
     "NFLX": {
       "symbol": "NFLX",
@@ -855,7 +855,7 @@
         7.1,
         -2.79
       ],
-      "updatedAt": 1794616499
+      "updatedAt": 1794644705
     },
     "PLTR": {
       "symbol": "PLTR",
@@ -903,7 +903,7 @@
         -12.76,
         0.41
       ],
-      "updatedAt": 1794616499
+      "updatedAt": 1794644705
     },
     "MSTR": {
       "symbol": "MSTR",
@@ -951,23 +951,23 @@
         -1.8,
         -14.16
       ],
-      "updatedAt": 1794616499
+      "updatedAt": 1794644706
     },
     "COIN": {
       "symbol": "COIN",
       "companyName": "Coinbase Global, Inc.",
       "group": "volatile",
-      "price": 127.64,
+      "price": 127.65,
       "currency": "USD",
       "dailyMove": -2.31,
       "weeklyMove": -5.28,
-      "monthlyMove": -30.56,
+      "monthlyMove": -30.55,
       "sixMonthMove": -32.62,
       "ytdMove": -46.03,
       "trendStrength": -11.78,
       "volatility": 4.09,
       "volPenalty": 12.3,
-      "distanceFromHigh": -36.52,
+      "distanceFromHigh": -36.51,
       "distanceFromLow": 0.0,
       "cusum": {
         "status": "no_change",
@@ -985,8 +985,8 @@
       },
       "regimeProbabilities": {
         "bull": 0.0299,
-        "neutral": 0.5459,
-        "bear": 0.4242
+        "neutral": 0.546,
+        "bear": 0.424
       },
       "score": 0,
       "action": "AVOID",
@@ -999,23 +999,23 @@
         -6.67,
         -10.05
       ],
-      "updatedAt": 1794616500
+      "updatedAt": 1794644706
     },
     "SMCI": {
       "symbol": "SMCI",
       "companyName": "Super Micro Computer, Inc.",
       "group": "volatile",
-      "price": 26.86,
+      "price": 26.87,
       "currency": "USD",
-      "dailyMove": -0.46,
-      "weeklyMove": -6.59,
-      "monthlyMove": -23.44,
-      "sixMonthMove": -12.92,
-      "ytdMove": -13.23,
+      "dailyMove": -0.44,
+      "weeklyMove": -6.57,
+      "monthlyMove": -23.43,
+      "sixMonthMove": -12.9,
+      "ytdMove": -13.21,
       "trendStrength": -14.37,
       "volatility": 5.69,
       "volPenalty": 17.1,
-      "distanceFromHigh": -40.22,
+      "distanceFromHigh": -40.21,
       "distanceFromLow": 0.0,
       "cusum": {
         "status": "no_change",
@@ -1033,8 +1033,8 @@
       },
       "regimeProbabilities": {
         "bull": 0.0098,
-        "neutral": 0.3763,
-        "bear": 0.6139
+        "neutral": 0.3768,
+        "bear": 0.6134
       },
       "score": 0,
       "action": "AVOID",
@@ -1047,7 +1047,7 @@
         -17.34,
         2.8
       ],
-      "updatedAt": 1794616500
+      "updatedAt": 1794644706
     }
   }
 }
