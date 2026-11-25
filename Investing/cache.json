@@ -1,5 +1,5 @@
 {
-  "generatedAt": 1795564704,
+  "generatedAt": 1795576549,
   "groups": {
     "big_tech": [
       "AAPL",
@@ -87,7 +87,7 @@
         4.06,
         -3.85
       ],
-      "updatedAt": 1795564702
+      "updatedAt": 1795576548
     },
     "MSFT": {
       "symbol": "MSFT",
@@ -135,7 +135,7 @@
         -1.27,
         -7.51
       ],
-      "updatedAt": 1795564703
+      "updatedAt": 1795576548
     },
     "GOOGL": {
       "symbol": "GOOGL",
@@ -183,7 +183,7 @@
         3.86,
         -10.31
       ],
-      "updatedAt": 1795564703
+      "updatedAt": 1795576548
     },
     "AMZN": {
       "symbol": "AMZN",
@@ -231,7 +231,7 @@
         2.84,
         -7.44
       ],
-      "updatedAt": 1795564703
+      "updatedAt": 1795576548
     },
     "META": {
       "symbol": "META",
@@ -279,7 +279,7 @@
         5.17,
         -12.6
       ],
-      "updatedAt": 1795564703
+      "updatedAt": 1795576548
     },
     "NVDA": {
       "symbol": "NVDA",
@@ -327,7 +327,7 @@
         -12.75,
         -22.92
       ],
-      "updatedAt": 1795564703
+      "updatedAt": 1795576548
     },
     "AMD": {
       "symbol": "AMD",
@@ -375,7 +375,7 @@
         18.93,
         -20.54
       ],
-      "updatedAt": 1795564703
+      "updatedAt": 1795576548
     },
     "AVGO": {
       "symbol": "AVGO",
@@ -423,7 +423,7 @@
         18.16,
         -12.28
       ],
-      "updatedAt": 1795564703
+      "updatedAt": 1795576548
     },
     "ARM": {
       "symbol": "ARM",
@@ -471,7 +471,7 @@
         9.11,
         -20.12
       ],
-      "updatedAt": 1795564703
+      "updatedAt": 1795576548
     },
     "DELL": {
       "symbol": "DELL",
@@ -519,7 +519,7 @@
         4.87,
         -19.3
       ],
-      "updatedAt": 1795564703
+      "updatedAt": 1795576549
     },
     "HPQ": {
       "symbol": "HPQ",
@@ -567,7 +567,7 @@
         3.16,
         -4.77
       ],
-      "updatedAt": 1795564703
+      "updatedAt": 1795576549
     },
     "LNVGY": {
       "symbol": "LNVGY",
@@ -615,7 +615,7 @@
         -8.44,
         -11.38
       ],
-      "updatedAt": 1795564703
+      "updatedAt": 1795576549
     },
     "MU": {
       "symbol": "MU",
@@ -663,7 +663,7 @@
         12.8,
         -23.62
       ],
-      "updatedAt": 1795564704
+      "updatedAt": 1795576549
     },
     "WDC": {
       "symbol": "WDC",
@@ -711,7 +711,7 @@
         12.08,
         -11.68
       ],
-      "updatedAt": 1795564704
+      "updatedAt": 1795576549
     },
     "STX": {
       "symbol": "STX",
@@ -759,7 +759,7 @@
         14.6,
         -13.49
       ],
-      "updatedAt": 1795564704
+      "updatedAt": 1795576549
     },
     "TSLA": {
       "symbol": "TSLA",
@@ -807,7 +807,7 @@
         8.93,
         -11.38
       ],
-      "updatedAt": 1795564704
+      "updatedAt": 1795576549
     },
     "NFLX": {
       "symbol": "NFLX",
@@ -855,7 +855,7 @@
         -1.99,
         -8.72
       ],
-      "updatedAt": 1795564704
+      "updatedAt": 1795576549
     },
     "PLTR": {
       "symbol": "PLTR",
@@ -903,7 +903,7 @@
         4.74,
         -14.58
       ],
-      "updatedAt": 1795564704
+      "updatedAt": 1795576549
     },
     "MSTR": {
       "symbol": "MSTR",
@@ -951,7 +951,7 @@
         -13.43,
         -30.3
       ],
-      "updatedAt": 1795564704
+      "updatedAt": 1795576549
     },
     "COIN": {
       "symbol": "COIN",
@@ -959,7 +959,7 @@
       "group": "volatile",
       "price": 102.35,
       "currency": "USD",
-      "dailyMove": -5.92,
+      "dailyMove": -5.91,
       "weeklyMove": -11.02,
       "monthlyMove": -35.87,
       "sixMonthMove": -43.84,
@@ -986,7 +986,7 @@
       "regimeProbabilities": {
         "bull": 0.003,
         "neutral": 0.1893,
-        "bear": 0.8078
+        "bear": 0.8077
       },
       "score": 0,
       "action": "AVOID",
@@ -999,7 +999,7 @@
         -5.28,
         -20.12
       ],
-      "updatedAt": 1795564704
+      "updatedAt": 1795576549
     },
     "SMCI": {
       "symbol": "SMCI",
@@ -1047,7 +1047,7 @@
         -6.57,
         -19.43
       ],
-      "updatedAt": 1795564704
+      "updatedAt": 1795576549
     }
   }
 }
